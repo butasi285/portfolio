@@ -1,0 +1,14 @@
+p {
+    color: green;
+}
+h2 {
+    color: #0091ff;
+    TEXT-TRANSFORM: UPPERCASE;
+    BACKGROUND-COLOR: lab(78.88% -73.6 71.69);
+}
+header {
+    background-color: lch(53.4% 63.61 122.54);
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
